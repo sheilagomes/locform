@@ -39,8 +39,8 @@ p {
     padding: 10px;
 }
 
-image {
-    height:min-content;
+strong {
+    color: #FF007F;
 }
 
 .contenedor {
