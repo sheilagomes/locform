@@ -39,6 +39,11 @@ p {
     padding: 10px;
 }
 
+.m-20px {
+    margin-top: 30px;
+    font-size: 1.1em;
+}
+
 strong {
     color: #FF007F;
 }
